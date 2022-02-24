@@ -1,12 +1,13 @@
 # Bash-Programs
 I will be uploading simple Tasks in PDF and their solution in bash language. With best possible logic.
+
 Q1.Write a Script that inputs a directory name (or path) from user and creates a
 file in it. Check for invalid path and write permissions of the directory.
 
 Q2. Write a shell script that take a number as argument and print its table.
 Check for errors in inputs such as no command line argument etc.
 
-3. Write a shell script that will add three integer numbers, which are supplied by
+Q3. Write a shell script that will add three integer numbers, which are supplied by
 the user and then find their average.
 
 Q4. The marks obtained by a student in 3 different subjects are input through
