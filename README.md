@@ -17,3 +17,21 @@ Average between 50 and 59 - Second division
 Average between 40 and 49 - Third division Average
 less than 40 - Fail
 Write a shell script to calculate the division obtained by the student.
+
+Q4: Write a script that takes two parametric variables:
+./script pattern_option number
+Where pattern_option = {left, right, full} and output the pattern depending on the input
+parameters as shown in Fig 1. Generate error messages for invalid input parameter.
+    *                   *                  *   
+   * *                 **                  **
+  * * *               ***                  ***
+ * * * *             ****                  ****
+* * * * *           *****                  *****
+ * * * *             ****                  ****
+  * * *               ***                  ***
+   * *                 **                  **
+    *                   *                  *
+       
+Q5:Create a bash file with the name, ‘while_example.sh’ and while loop should iterate for 5 times.
+The value of count variable should increment by 1 in each step. When the value of count variable
+will reach 5 then the while loop should terminate.
